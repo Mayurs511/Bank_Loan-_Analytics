@@ -50,3 +50,15 @@ To ensure the accuracy and reliability of the insights, I cross-checked all the 
 ### 5.Overall Complete Project Summary:
 
 This project provides a comprehensive analysis of financial loan data, offering valuable insights into borrower behavior, loan characteristics, and repayment trends. By leveraging the power of DAX and interactive Power BI dashboards, the project enables stakeholders to make informed decisions regarding credit risk management and lending strategies. The dashboards provide a user-friendly interface to explore data patterns, while the underlying analysis emphasizes key risk factors, such as borrower grade, employment length, and interest rates. This project serves as a robust tool for financial institutions aiming to enhance their loan portfolio management.
+
+### 6. Snapshots Of Dashboards(Power-BI services)
+
+Summary Dashboard(1)
+![Screenshot (89)](https://github.com/user-attachments/assets/48570bb8-eeaf-41bd-894a-b90fdb4552d1)
+
+Overview Dashboard(2)
+![Screenshot (90)](https://github.com/user-attachments/assets/0d3654bf-3d99-44a2-82be-a030470d8000)
+
+
+Details Dashboard(3)
+![Screenshot (91)](https://github.com/user-attachments/assets/03a1de13-4cb0-475f-8948-166d820319d2)
